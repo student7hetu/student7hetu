@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Hetu Patel
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning web developement
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a self-taught web developer wiht a passion for learning new technologies
+- 💻 I know HTML, CSS, JavaScript & ReactJs
+- 🎯 My goal is to beacome full-stack web developer and contribute to the developer community
+- 🌌 Hobbies: Gaming, Learning skills & Content creation
