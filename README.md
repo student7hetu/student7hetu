@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning web developement
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a self-taught web developer wiht a passion for learning new technologies
-- 💻 Skills: I know HTML, CSS, JavaScript & ReactJs
+- 💻 Skills: HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs and MongoDB.
 - 🎯 My goal is to become full-stack web developer and contribute to the developer community
